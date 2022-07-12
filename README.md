@@ -4,14 +4,14 @@ Aplicação back-end desenvolvida para um armazenar e gerenciar notas, com cadas
 
 ## Stack utilizada
 
-Node.JS
-Express
-bcrypt.js
-express-async-errors
-knex.js
-SQLite
-SQLite3
-Nodemon
+Node.JS, 
+Express, 
+bcrypt.js, 
+express-async-errors, 
+knex.js, 
+SQLite, 
+SQLite3, 
+Nodemon.
 
 ## Aprendizados
 
